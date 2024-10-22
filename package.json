@@ -7,7 +7,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "author": "Chija01",
+  "author": "JC",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.1"
